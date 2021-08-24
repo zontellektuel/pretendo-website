@@ -14,14 +14,14 @@
 		}
 	},
 	"aboutUs": {
-		"title": "Hakkımızda",
+		"title": "حقِّمزده",
 		"paragraphs": [
 			"Pretendo, Wii U ve 3DS için yapılmış Nintendo Network'ü temiz oda tekniğini kullanarak yeniden oluşturmayı hedefleyen açık kaynaklı bir projedir.",
 			"Hem ücretsiz hem de açık kaynaklı olan hizmetlerimiz, Nintendo Network'ün kaçınılmaz kapanışından sonra uzun bir süre çalışabilecektir."
 		]
 	},
 	"progress": {
-		"title": "İlerleme",
+		"title": "ترقِّى",
 		"paragraphs": [
 			"Şu anda, hesap sunucularımız ve hizmetlerle entegrason ile birlikte Miiverse üzerinde çalışıyoruz.",
 			"3DS için ise, mümkün olduğu vakit diğer oyunlar üzerinde çalışmaya devam etme arzusuyla Mario Kart 7 üzerinde çalışıyoruz."
@@ -125,7 +125,7 @@
 			},
 			{
 				"name": "Kinnay",
-				"special": "Özel teşekkür",
+				"special": "خصوصى تشكُّر",
 				"caption": "Nintendo'nun veri yapıları üzerine araştırma",
 				"picture": "https://cdn.discordapp.com/avatars/186572995848830987/b55c0d4e7bfd792edf0689f83a25d8ea.png?size=128",
 				"github": "https://github.com/Kinnay"
@@ -133,7 +133,7 @@
 		]
 	},
 	"progressPage": {
-		"title": "İlerlememiz",
-		"description": "Proje ilerlemesini ve hedeflerini kontrol edin! (Her saat başı güncellenir. TÜM proje hedeflerini veya ilerlemesini yansıtmaz)"
+		"title": "ترقِّيمز",
+		"description": "پروژه ترقِّسنى و أهدافنى تفتيش ادین! (هر ساعت باشى تجدید أديلر. توم پروژه أهدافنى ويا ترقِّسنى تعكيس اتمر)"
 	}
 }
