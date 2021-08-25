@@ -10,7 +10,7 @@
 		"title": "تجديد أدلدى",
 		"text": "Pretendo, Nintendo'nun Wii U ve 3DS konsollarının sunucuları yerine kullanılabilmesi için tasarlanmış, asıl sunucular kapatılmış olmasına rağmen çevrimiçi bağlantıya olanak sağlayan ücretsiz açık kaynaklı bir yazılımdır.",
 		"buttons": {
-			"readMore": "Daha fazlasını oku"
+			"readMore": "داها فضله‌سينى اوقو"
 		}
 	},
 	"aboutUs": {
@@ -66,8 +66,8 @@
 		]
 	},
 	"credits": {
-		"title": "هيئت",
-		"text": "Projenin arkasındaki ekiple tanışın",
+		"title": "هيْئت",
+		"text": "پروژه‌نڭ آرقه‌سڭده‌كى هيْئت إيل تعرُّف أدين",
 		"people": [
 			{
 				"name": "Jonathan Barrow (jonbarrow)",
@@ -134,6 +134,6 @@
 	},
 	"progressPage": {
 		"title": "ترقِّيمز",
-		"description": "(پروژه ترقِّسنى و أهدافنى تفتيش أدین! (هر ساعت باشى تجدید أديلر. توم پروژه أهدافنى ويا ترقِّسنى تعكيس أيتمز"
+		"description": "(.پروژه ترقِّسنى و أهدافنى تفتيش أدین! (هر ساعت باشى تجدید أديلر. توم پروژه أهدافنى ويا ترقِّسنى تعكيس أيتمز"
 	}
 }
